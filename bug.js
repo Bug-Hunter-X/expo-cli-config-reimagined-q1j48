@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI and you try to run a project that has an incorrect or missing configuration in the `app.json` or `app.config.js` file. This often happens due to typos, incorrect paths, or missing dependencies.
